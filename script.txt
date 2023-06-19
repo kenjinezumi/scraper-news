@@ -1,0 +1,6 @@
+
+> scraper-news@1.0.0 start
+> node index.js
+
+Hello, World
+Checking the Data here
